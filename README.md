@@ -7,6 +7,6 @@ This is a project that generating 3d objects using similar architecture from [3D
 4. run `python train_3dgan.py`
 
 ## Results
-[results/chair1.png]
-[results/chair2.png]
-[results/chair3.png]
+![Alt text](results/chair1.png)
+![Alt text](results/chair2.png)
+![Alt text](results/chair3.png)
